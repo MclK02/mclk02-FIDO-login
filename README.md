@@ -8,7 +8,7 @@ Users can:
 
 ---
 
-## How the application works (step by step)
+## How the application works
 
 ### Step 1 — User registers (account creation)
 - The user enters email + display name + password.
@@ -50,7 +50,7 @@ Users can:
 
 ---
 
-## Project structure (high level)
+## Project structure
 - `web/` – Flask application
   - `fido_app/` – main app package
   - `wsgi.py` – starts the server
