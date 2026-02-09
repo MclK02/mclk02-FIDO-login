@@ -15,4 +15,9 @@
 
 # Build/test artifacts
 **/*.pyc
-.cache
+.cache.venv/
+venv/
+web/.venv/
+__pycache__/
+*.pyc
+.env
